@@ -1,6 +1,6 @@
      package:   ribbit.py
       author:   Charles J McDonald <<cmcdonald@woonsocketschools.com>>
-        date:   2024.10
+        date:   2024.10.11
      version:   0.1
     maturity:   inDev
 
@@ -17,10 +17,9 @@ White pegs to indicate Bulls and Cows. A version known as MOO was widely availab
 and Multics systems, among others.
 
 ## Directions:
-The first player is the Gatekeeper. They secretly choose a three-digit number using the numbers zero to 9 with no
-duplicates. The second player, the Keymaster, gets 10 tries to guess the secret number. After each guess, the
-Gatekeeper “scores” using the following code:
-
+The first player is the Swampmaster. They secretly choose a three-digit number using the numbers zero to 9 with no
+duplicates. The second player, the Amphibian-Tamer, gets 10 tries to guess the secret number. After each guess, the
+Swampmaster “scores” using the following code:
 
 **Swamp**: None of the digits in your guess are in the secret code.
 
@@ -33,9 +32,9 @@ Gatekeeper “scores” using the following code:
 ## Development Cycle
 ### Round 1:
 - [x] Take notes during our sample playthrough.
-- [ ] Plan out your game using pseudocode with a healthy amount of comments.
+- [x] Plan out your game using pseudocode with a healthy amount of comments.
 - [ ] Code the game of Bulls and Cows as described: Numbers 0 through 9, choose three digits, no duplicates.
-- [ ] Assume all input is valid
+- [x] Assume all input is valid
 - [ ] The Keymaster gets 10 tries. Instead of Bulls, Cows, and Bagels, develop a custom naming system.
 - [ ] Reward a successful Keymaster for breaking the code.
 

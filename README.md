@@ -32,10 +32,10 @@ Gatekeeper “scores” using the following code:
 
 ## Development Cycle
 ### Round 1:
--[x] Take notes during our sample playthrough.
--[ ] Plan out your game using pseudocode with a healthy amount of comments.
--[ ] Code the game of Bulls and Cows as described: Numbers 0 through 9, choose three digits, no duplicates.
--[ ] Assume all input is valid
--[ ] The Keymaster gets 10 tries. Instead of Bulls, Cows, and Bagels, develop a custom naming system.
--[ ] Reward a successful Keymaster for breaking the code.
+- [x] Take notes during our sample playthrough.
+- [ ] Plan out your game using pseudocode with a healthy amount of comments.
+- [ ] Code the game of Bulls and Cows as described: Numbers 0 through 9, choose three digits, no duplicates.
+- [ ] Assume all input is valid
+- [ ] The Keymaster gets 10 tries. Instead of Bulls, Cows, and Bagels, develop a custom naming system.
+- [ ] Reward a successful Keymaster for breaking the code.
 

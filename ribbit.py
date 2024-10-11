@@ -4,10 +4,10 @@
 print("""
 
 Welcome to Ribbit!
-This is a code breaking challenge in which the Swampmaster, Player 1, creates three-digit secret code.
+This is a code breaking challenge in which the Swampmaster, Player 1, creates a three-digit, secret code.
   The three digits must be unique and use the numbers 0 through 9.
 
-Then, the Amphibian-Tamer, PLayer 2, must use their swampy powers to crack the code. They have 10 tries
+Then, the Amphibian-Tamer, Player 2, must use their swampy powers to crack the code. They have 10 tries
   to guess the three-digit code and will receive a score from the Swampmaster.
 
 Scoring:
@@ -37,10 +37,9 @@ while hasWon == False :
   score = input("Now the Swampmaster will score your guess: ")
 
   # Display the turn number, the guess, and the score
-  if score == "FFF"
+  if score == "FFF" :
     print(f"Your guess of {guess} is correct! You won in {numberOfGuesses} guesses.")
     hasWon = True
-  else
+  else :
     print(f"Your guess was: {guess} and you scored: {score}. You have {10-numberOfGuesses} left.")
   # Repeat until Player 2 gets it right or has used all 10 tries.
-

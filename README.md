@@ -33,8 +33,10 @@ Swampmaster “scores” using the following code:
 ### Round 1:
 - [x] Take notes during our sample playthrough.
 - [x] Plan out your game using pseudocode with a healthy amount of comments.
-- [ ] Code the game of Bulls and Cows as described: Numbers 0 through 9, choose three digits, no duplicates.
+- [x] Code the game of Bulls and Cows as described: Numbers 0 through 9, choose three digits, no duplicates.
 - [x] Assume all input is valid
-- [ ] The Keymaster gets 10 tries. Instead of Bulls, Cows, and Bagels, develop a custom naming system.
-- [ ] Reward a successful Keymaster for breaking the code.
+- [x] The Keymaster gets 10 tries. Instead of Bulls, Cows, and Bagels, develop a custom naming system.
+- [x] Reward a successful Keymaster for breaking the code.
+
+## === Round 1 Complete!!!
 

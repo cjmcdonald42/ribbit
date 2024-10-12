@@ -45,7 +45,7 @@ Swampmaster “scores” using the following code:
 
 ### Round 3:
 - [ ] The board with each line and its score should be updated and reprinted each round before asking for the next guess - or the player should have the option of printing a table with guesses and responses thus far.
-- [ ] Create a scoring system based on the number or tries, Bulls, and Cows. Present the final score to the winner.
+- [ ] Create a scoring system based on the number of tries, Bulls, and Cows. Present the final score to the winner.
 - [ ] Consider the player experience and create a UI that is easy to read and yet very informative.
 
 ### Challenge Round:

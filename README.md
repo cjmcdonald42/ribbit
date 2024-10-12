@@ -1,6 +1,6 @@
      package:   ribbit.py
       author:   Charles J McDonald <<cmcdonald@woonsocketschools.com>>
-        date:   2024.10.11
+        date:   2024.10.12
      version:   0.1
     maturity:   inDev
 
@@ -38,5 +38,15 @@ Swampmaster “scores” using the following code:
 - [x] The Keymaster gets 10 tries. Instead of Bulls, Cows, and Bagels, develop a custom naming system.
 - [x] Reward a successful Keymaster for breaking the code.
 
-## === Round 1 Complete!!!
+### Round 2:
+- [ ] Proof input for validity
+- [ ] Allow the Gatemaster to choose the number of digits in the code. Consider what reasonable limits this option should have.
+- [ ] Allow the Gatemaster the option of using duplicate numbers.
 
+### Round 3:
+- [ ] The board with each line and its score should be updated and reprinted each round before asking for the next guess - or the player should have the option of printing a table with guesses and responses thus far.
+- [ ] Create a scoring system based on the number or tries, Bulls, and Cows. Present the final score to the winner.
+- [ ] Consider the player experience and create a UI that is easy to read and yet very informative.
+
+### Challenge Round:
+- [ ] Allow the game to be played by one person with the computer taking the role of the Gatekeeper.

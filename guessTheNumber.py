@@ -16,4 +16,4 @@ while guess != code:
     elif guess > code:
         print("Lower!")
     else:
-        print("Congratulations! You guessed the code:", code)
+        print("Congratulations! You guessed the code: {code}")
